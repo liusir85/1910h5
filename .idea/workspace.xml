@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cd50059-ba73-41e6-a8dd-a39cf3447601" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/csst9402.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/csst9402.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gwche.html" beforeDir="false" afterPath="$PROJECT_DIR$/gwche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cpms1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/cpms1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ddan1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ddan1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ewma-tu.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ewma-tu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gwsp1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gwsp1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/gwsp2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/gwsp2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sytu9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sytu9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tx1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tx1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wdlw1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/wdlw1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wode1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/wode1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-1.12.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/swiper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wode.html" beforeDir="false" afterPath="$PROJECT_DIR$/wode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/产品秒杀.html" beforeDir="false" afterPath="$PROJECT_DIR$/产品秒杀.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/产品详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/产品详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/修改手机号.html" beforeDir="false" afterPath="$PROJECT_DIR$/修改手机号.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/修改登录密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/修改登录密码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/充值申请.html" beforeDir="false" afterPath="$PROJECT_DIR$/充值申请.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/分店订单.html" beforeDir="false" afterPath="$PROJECT_DIR$/分店订单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/发起代付.html" beforeDir="false" afterPath="$PROJECT_DIR$/发起代付.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/地址管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/地址管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/地址管理2.html" beforeDir="false" afterPath="$PROJECT_DIR$/地址管理2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实名认证.html" beforeDir="false" afterPath="$PROJECT_DIR$/实名认证.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/已收藏商品.html" beforeDir="false" afterPath="$PROJECT_DIR$/已收藏商品.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/已收藏商品2.html" beforeDir="false" afterPath="$PROJECT_DIR$/已收藏商品2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/忘记密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/忘记密码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的二维码.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的二维码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的分店.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的分店.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的分店2.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的分店2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的寄卖.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的寄卖.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的礼物.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的礼物.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的礼物2.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的礼物2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的积分.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的积分.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的补贴.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的补贴.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的订单.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的订单.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的赠送.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的赠送.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的赠送2.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的赠送2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的金币.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的金币.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/我的钱包.html" beforeDir="false" afterPath="$PROJECT_DIR$/我的钱包.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/户外运动.html" beforeDir="false" afterPath="$PROJECT_DIR$/户外运动.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新增银行卡.html" beforeDir="false" afterPath="$PROJECT_DIR$/新增银行卡.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/明细.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/易抢购.html" beforeDir="false" afterPath="$PROJECT_DIR$/易抢购.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/注册.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息.html" beforeDir="false" afterPath="$PROJECT_DIR$/消息.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息2.html" beforeDir="false" afterPath="$PROJECT_DIR$/消息2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/消息详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/消息详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/添加新地址.html" beforeDir="false" afterPath="$PROJECT_DIR$/添加新地址.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/积分明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/积分明细.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/管理.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/结算中心.html" beforeDir="false" afterPath="$PROJECT_DIR$/结算中心.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/订单详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/订单详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设置.html" beforeDir="false" afterPath="$PROJECT_DIR$/设置.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设置支付密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/设置支付密码.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设置昵称.html" beforeDir="false" afterPath="$PROJECT_DIR$/设置昵称.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/账单详情.html" beforeDir="false" afterPath="$PROJECT_DIR$/账单详情.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/转至余额.html" beforeDir="false" afterPath="$PROJECT_DIR$/转至余额.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/金币明细.html" beforeDir="false" afterPath="$PROJECT_DIR$/金币明细.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/银行卡管理.html" beforeDir="false" afterPath="$PROJECT_DIR$/银行卡管理.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reg.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+              <folding>
+                <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="117" selection-start-line="117" selection-end-line="117" selection-end-column="82" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+              <folding>
+                <element signature="n#div#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>goods_list</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/vue.html" />
+        <option value="$PROJECT_DIR$/reg.html" />
+        <option value="$PROJECT_DIR$/list.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/h5.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="550" />
+    <option name="y" value="60" />
+    <option name="width" value="1397" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="h5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="h5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="h5" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myapp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\h5\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cd50059-ba73-41e6-a8dd-a39cf3447601" name="Default Changelist" comment="" />
+      <created>1598272805039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598272805039</updated>
+      <workItem from="1598272806503" duration="1719000" />
+      <workItem from="1598319127363" duration="1940000" />
+      <workItem from="1598343892050" duration="8309000" />
+      <workItem from="1598488619758" duration="647000" />
+      <workItem from="1598489283444" duration="3660000" />
+      <workItem from="1598571432497" duration="7801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24076000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16248989" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32821497" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.32624114" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32595575" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.22456814" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32983023" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/注册.html" />
+    <entry file="file://$PROJECT_DIR$/gwche.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="54" column="53" selection-start-line="54" selection-start-column="53" selection-end-line="54" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/swiper.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="117" selection-start-line="117" selection-end-line="117" selection-end-column="82" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding>
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#li#1;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

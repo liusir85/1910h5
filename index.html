@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<title></title>
@@ -75,36 +75,7 @@
 			<span>更多</span>
 		</div>
 		<div class="header-sy-nr3">
-			<ul>
-				<a href="产品详情.html">
-					<li>
-						<div class="spwai">
-							<img src="img/sytu8.png"/>
-							<div class="spxinxi">
-								<p>S-易路达超轻折叠双肩包</p>
-								<span>0金币+￥125</span>
-							</div>
-						</div>
-					</li>
-				</a>
-				<li>
-					<div class="spwai">
-						<img src="img/sytu6.png"/>
-						<div class="spxinxi">
-							<p>S-易路达超轻折叠双肩包</p>
-							<span>0金币+￥125</span>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="spwai">
-						<img src="img/sytu7.png"/>
-						<div class="spxinxi">
-							<p>S-易路达超轻折叠双肩包</p>
-							<span>0金币+￥125</span>
-						</div>
-					</div>
-				</li>
+			<ul id="goods_list">
 			</ul>
 		</div>
 		<div style="height: 5em;"></div>
@@ -143,6 +114,35 @@
 				loop : true,
 				autoplay : true
 			})
+		</script>
+		<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+		<script>
+			//获取首页商品列表
+			$.ajax({
+				url: 'http://api.1910.com/home/goods',		//首页接口
+				type: 'get',
+				dataType: 'json',
+				xhrFields: {withCredentials:true},
+				success: function(d) {
+					//填充页面数据
+					console.log(d);
+					$.each(d.data.goods,function(i,item){
+						console.log(i + '--' + item.goods_name);
+						var node = '<li>' +
+								'<div class="spwai">' +
+								'<a href="/detail.html?id='+ item.goods_id +'"><img src="img/sytu8.png"/></a>' +
+								'<div class="spxinxi">' +
+								'<p><a href="">'+ item.goods_name +'</a></p>' +
+								'<span>￥'+item.shop_price+'</span>' +
+								'</div>' +
+								'</div>' +
+								'</li>';
+						$("#goods_list").append(node);
+					});
+
+				}
+			});
+
 		</script>
 	</body>
 </html>
